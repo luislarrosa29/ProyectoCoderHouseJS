@@ -14,3 +14,9 @@ p{
     text-align: center;
     font-size: 30px;
 }
+button{
+    font-size: 50px;
+    margin-left: 45%;
+    color: rgb(158, 54, 158);
+    border-radius: 50px ;
+}
